@@ -11,3 +11,7 @@
 #### Vectorization, Numpy, etc...
 [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)<br/>
 [100 numpy exercises](https://github.com/rougier/numpy-100)
+
+
+#### General 
+[Marcus' AI Recommendation Page](http://www.hutter1.net/ai/introref.htm)
