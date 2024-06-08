@@ -5,6 +5,11 @@
 
 #### Information: Philosophy, Shannon's information, etc
 - Information a very short introduction, Luciano Floridi
+  - The language of information
+  - Mathematical information
+  - Semantic information
+  - Physical information
+  - Economic information
 
 #### GPU, Parallel Computing, etc...
 - [GPGPU Computing](https://arxiv.org/abs/1408.6923)
