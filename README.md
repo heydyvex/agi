@@ -9,6 +9,7 @@
   - Mathematical information
   - Semantic information
   - Physical information
+  - Biological Infomation(genetic & neural)
   - Economic information
 
 #### GPU, Parallel Computing, etc...
