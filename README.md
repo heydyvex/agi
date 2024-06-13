@@ -11,6 +11,7 @@
   - Physical information
   - Biological Infomation(genetic & neural)
   - Economic information
+- [Constructor theory of information, David Deutsch and Chiara Marletto](https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2014.0540)  
 
 #### GPU, Parallel Computing, etc...
 - [GPGPU Computing](https://arxiv.org/abs/1408.6923)
