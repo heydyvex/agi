@@ -29,7 +29,8 @@
 - [100 numpy exercises](https://github.com/rougier/numpy-100)
 <br/>
 
-#### AGI
+#### Constructor Theory, David Deutsch
+- [Constructor Theory](https://arxiv.org/abs/1210.7439)  
 - [how close are we to creating artificial intelligence](https://aeon.co/essays/how-close-are-we-to-creating-artificial-intelligence)
 <br/>
 
