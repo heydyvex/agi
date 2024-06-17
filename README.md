@@ -1,4 +1,4 @@
-# ai-ml
+# AGI
 
 #### history of AI
 - [Annotated History of Modern AI and Deep Learning](https://arxiv.org/abs/2212.11279)
@@ -29,8 +29,9 @@
 - [100 numpy exercises](https://github.com/rougier/numpy-100)
 <br/>
 
-#### Constructor Theory, David Deutsch
-- [Constructor Theory](https://arxiv.org/abs/1210.7439)  
+#### Constructor Theory, David Deutsch's Ideas
+- [Constructor Theory, its applications, news](https://www.constructortheory.org/)
+- [Constructor Theory, original paper](https://arxiv.org/abs/1210.7439)  
 - [how close are we to creating artificial intelligence](https://aeon.co/essays/how-close-are-we-to-creating-artificial-intelligence)
 <br/>
 
