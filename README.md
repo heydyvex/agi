@@ -20,6 +20,13 @@
 - [Constructor theory of information, David Deutsch and Chiara Marletto](https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2014.0540)  
 <br/>
 
+#### David Deutsch's Ideas, Constructor Theory, ...
+- [Constructor Theory, its applications, news](https://www.constructortheory.org/)
+- [Constructor Theory, original paper](https://arxiv.org/abs/1210.7439)  
+- [how close are we to creating artificial intelligence](https://aeon.co/essays/how-close-are-we-to-creating-artificial-intelligence)
+- The Beginning of Infinity: Explanations That Transform the World
+<br/>
+
 #### GPU, Parallel Computing, etc...
 - [GPGPU Computing](https://arxiv.org/abs/1408.6923)
 <br/>
@@ -27,12 +34,6 @@
 #### Vectorization, Numpy, etc...
 - [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)<br/>
 - [100 numpy exercises](https://github.com/rougier/numpy-100)
-<br/>
-
-#### Constructor Theory, David Deutsch's Ideas
-- [Constructor Theory, its applications, news](https://www.constructortheory.org/)
-- [Constructor Theory, original paper](https://arxiv.org/abs/1210.7439)  
-- [how close are we to creating artificial intelligence](https://aeon.co/essays/how-close-are-we-to-creating-artificial-intelligence)
 <br/>
 
 #### recommendation for AI studies  
