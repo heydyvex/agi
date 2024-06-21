@@ -27,6 +27,9 @@
 - The Beginning of Infinity: Explanations That Transform the World
 <br/>
 
+#### Deep learning framwork, toolchain...
+- Tinygrad, still young framwork, has taken way more better approach, [link to repo](https://github.com/tinygrad/tinygrad)
+
 #### GPU, Parallel Computing, etc...
 - [GPGPU Computing](https://arxiv.org/abs/1408.6923)
 <br/>
