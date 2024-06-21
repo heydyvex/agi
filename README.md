@@ -29,6 +29,8 @@
 
 #### Deep learning framwork, toolchain...
 - Tinygrad, still young framwork, has taken way more better approach, [link to repo](https://github.com/tinygrad/tinygrad)
+- Pytorch, nice but too much, over 2M line of code, [link to repo](https://github.com/pytorch/pytorch)
+<br/>
 
 #### GPU, Parallel Computing, etc...
 - [GPGPU Computing](https://arxiv.org/abs/1408.6923)
