@@ -7,6 +7,7 @@
 #### epistemology(poperian and others...), philosophy of science, knowledge discovery and problem solving
 - [Applying Deutsch's concept of good explanations to artificial intelligence and neuroscience -- an initial exploration
 ](https://arxiv.org/abs/2012.09318)
+- The Logic of Scientific Discovery
 <br/>
 
 #### Information: Philosophy, Shannon's information, etc
