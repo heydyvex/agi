@@ -1,13 +1,12 @@
 # AGI
-How to make a "creativity program" that can solve fundamental problems.
+How to make a "creativity program" that can create new explanatory knowledge.
 
 #### history of AI
-- [Annotated History of Modern AI and Deep Learning](https://arxiv.org/abs/2212.11279)
+- Annotated History of Modern AI and Deep Learning, [link](https://arxiv.org/abs/2212.11279)
 <br/>
 
 #### epistemology(poperian and others...), philosophy of science, knowledge discovery and problem solving
-- [Applying Deutsch's concept of good explanations to artificial intelligence and neuroscience -- an initial exploration
-](https://arxiv.org/abs/2012.09318)
+- Applying Deutsch's concept of good explanations to artificial intelligence and neuroscience -- an initial exploration, [link](https://arxiv.org/abs/2012.09318)
 - The Logic of Scientific Discovery by Karl Popper.
 - Conjectures and Refutations by Karl Popper.
 <br/>
@@ -20,28 +19,29 @@ How to make a "creativity program" that can solve fundamental problems.
   - Physical information
   - Biological Infomation(genetic & neural)
   - Economic information
-- [Constructor theory of information, David Deutsch and Chiara Marletto](https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2014.0540)  
+- Constructor theory of information, David Deutsch and Chiara Marletto, [link](https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2014.0540)  
 <br/>
 
 #### David Deutsch's Ideas, Constructor Theory, ...
-- [Constructor Theory, its applications, news](https://www.constructortheory.org/)
-- [Constructor Theory, original paper](https://arxiv.org/abs/1210.7439)  
-- [how close are we to creating artificial intelligence](https://aeon.co/essays/how-close-are-we-to-creating-artificial-intelligence)
-- The Beginning of Infinity: Explanations That Transform the World
+- The Beginning of Infinity: Explanations That Transform the World, (BOI)
+- A very nice summary-map like reference for BOI, [link](https://ceramic-sf.github.io/2023/10/24/quick-boi.html)
+- Constructor Theory, its applications, news, [link](https://www.constructortheory.org/)
+- Constructor Theory, original paper, [link](https://arxiv.org/abs/1210.7439)  
+- how close are we to creating artificial intelligence, [link](https://aeon.co/essays/how-close-are-we-to-creating-artificial-intelligence)
+
 <br/>
 
 #### Deep learning framwork, toolchain...
-- Tinygrad, still young, has taken way more better approach, [link to repo](https://github.com/tinygrad/tinygrad)
-- Pytorch, nice but too much, over 2M line of code, [link to repo](https://github.com/pytorch/pytorch)
+- Tinygrad, still young, has taken way more better approach, [link](https://github.com/tinygrad/tinygrad)
+- Pytorch, nice but too much, over 2M line of code, [link](https://github.com/pytorch/pytorch)
 <br/>
 
 #### GPU, Parallel Computing, etc...
-- [GPGPU Computing](https://arxiv.org/abs/1408.6923)
+- GPGPU Computing, [link](https://arxiv.org/abs/1408.6923)
 <br/>
 
 #### Vectorization, Numpy, etc...
 - [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)<br/>
-- [100 numpy exercises](https://github.com/rougier/numpy-100)
 <br/>
 
 #### recommendation for AI studies  
