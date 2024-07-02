@@ -12,13 +12,7 @@ How to make a "creativity program" that can create new explanatory knowledge.
 <br/>
 
 #### Information: Philosophy, Shannon's information, etc
-- Information a very short introduction, Luciano Floridi
-  - The language of information
-  - Mathematical information
-  - Semantic information
-  - Physical information
-  - Biological Infomation(genetic & neural)
-  - Economic information
+- Information a very short introduction by Luciano Floridi
 - Constructor theory of information, David Deutsch and Chiara Marletto, [link](https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2014.0540)  
 <br/>
 
@@ -28,7 +22,7 @@ How to make a "creativity program" that can create new explanatory knowledge.
 - Constructor Theory, its applications, news, [link](https://www.constructortheory.org/)
 - Constructor Theory, original paper, [link](https://arxiv.org/abs/1210.7439)  
 - how close are we to creating artificial intelligence, [link](https://aeon.co/essays/how-close-are-we-to-creating-artificial-intelligence)
-
+- Naval's introduction to BOI, [part 1](https://nav.al/infinity), [part 2](https://nav.al/infinity-2)
 <br/>
 
 #### Deep learning framwork, toolchain...
