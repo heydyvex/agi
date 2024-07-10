@@ -1,6 +1,11 @@
 # AGI
 How to make a "creativity program" that can create new explanatory knowledge.
 
+#### Epistemology
+[go to file](epistemology.md)  
+First of all, we need to get our epistemology right, it is about knowledge, we need to know about good, bad theories and explanation. and so on...
+<br/>
+
 #### history of AI
 - Annotated History of Modern AI and Deep Learning, [link](https://arxiv.org/abs/2212.11279)
 <br/>
